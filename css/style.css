@@ -17,6 +17,13 @@ footer {
     background-color: lightgray;
     color: white;
   }
+#carouselExampleFade{
+    background-color: lightgray;
+    width: 80%;
+    height: auto;
+    object-fit: cover;
+    border: 15px solid black;
+}
 #parallax{
   /* The image used */
   background-image: url("../img/20171029_121952_042.jpg");
